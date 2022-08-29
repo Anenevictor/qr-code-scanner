@@ -1,0 +1,33 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+  font-family: "Outfit";
+  margin: 0;
+}
+h1 {
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
+    margin: 3% 5%;
+    font-size: 35px;
+}
+p {
+  color: hsl(220, 15%, 55%);
+  font-size: 25px;
+  font-weight: 400;
+  margin: 3% 5%;
+}
+
+.container{
+  background-color: hsl(0, 0%, 100%);
+  text-align: center;
+  margin: 15% 40%;
+  border-radius: 30px;
+}
+.image{
+  width: 90%;
+  margin: 5% 3%;
+  border-radius: 20px;
+}
+.attribution {
+  padding: 5% 0 3% 0;
+  color: hsl(218, 44%, 22%);
+}
